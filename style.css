@@ -1,0 +1,15 @@
+/* Styling a paragraph element */
+p {
+  color: blue; /* Sets text color to blue */
+  font-size: 16px; /* Sets font size to 16 pixels */
+  background-color: lightgray; /* Sets background color to light gray */
+  padding: 10px; /* Adds 10 pixels of padding around the content */
+  margin-bottom: 15px; /* Adds 15 pixels of bottom margin */
+}
+
+/* Styling a heading element */
+h1 {
+  color: darkred;
+  text-align: center; /* Centers the text */
+  text-decoration: underline; /* Underlines the text */
+}
